@@ -5,7 +5,7 @@ Une fois installé, Pont se met à jour lui-même (Réglages › Mises à jour) 
 
 ## Téléphone et tablette (Android)
 
-- **Pont (test)** 0.3.0-test.95 (5 novembre 2026) : [pont-beta-95.apk](https://github.com/Toytle56/Pont-versions/releases/download/beta-95/pont-beta-95.apk)
+- **Pont (test)** 0.4.0-test.96 (5 novembre 2026) : [pont-beta-96.apk](https://github.com/Toytle56/Pont-versions/releases/download/beta-96/pont-beta-96.apk)
 
 Sur le téléphone : ouvrir le lien, télécharger, puis autoriser l'installation d'applications pour le navigateur.
 
