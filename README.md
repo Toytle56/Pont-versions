@@ -11,10 +11,10 @@ Sur le téléphone : ouvrir le lien, télécharger, puis autoriser l'installatio
 
 ## Ordinateur
 
-Version Pont ordinateur 0.4.145 (test) (6 novembre 2026) :
+Version Pont ordinateur 0.4.160 (test) (6 novembre 2026) :
 
-- Windows : [Pont_0.4.145_x64-setup.exe](https://github.com/Toytle56/Pont-versions/releases/download/bureau-145/Pont_0.4.145_x64-setup.exe) (ou [Pont_0.4.145_x64_en-US.msi](https://github.com/Toytle56/Pont-versions/releases/download/bureau-145/Pont_0.4.145_x64_en-US.msi))
-- Linux : [Pont_0.4.145_amd64.AppImage](https://github.com/Toytle56/Pont-versions/releases/download/bureau-145/Pont_0.4.145_amd64.AppImage) (ou [Pont_0.4.145_amd64.deb](https://github.com/Toytle56/Pont-versions/releases/download/bureau-145/Pont_0.4.145_amd64.deb))
+- Windows : [Pont_0.4.160_x64-setup.exe](https://github.com/Toytle56/Pont-versions/releases/download/bureau-160/Pont_0.4.160_x64-setup.exe) (ou [Pont_0.4.160_x64_en-US.msi](https://github.com/Toytle56/Pont-versions/releases/download/bureau-160/Pont_0.4.160_x64_en-US.msi))
+- Linux : [Pont_0.4.160_amd64.AppImage](https://github.com/Toytle56/Pont-versions/releases/download/bureau-160/Pont_0.4.160_amd64.AppImage) (ou [Pont_0.4.160_amd64.deb](https://github.com/Toytle56/Pont-versions/releases/download/bureau-160/Pont_0.4.160_amd64.deb))
 
 [Toutes les versions et leurs nouveautés](https://github.com/Toytle56/Pont-versions/releases)
 
